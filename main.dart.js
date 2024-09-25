@@ -49746,7 +49746,7 @@ o.toString
 a.l_(o,new A.D(0,0,m,s),new A.D(q,r,q+p.a,r+p.b),$.at().aY())}},
 $iJK:1}
 A.xk.prototype={
-X(a){return new A.p1(new A.pe(null),"Flutter Demo",A.a44(null,A.a9y(B.Q,B.B2),!0),null)}}
+X(a){return new A.p1(new A.pe(null),"JIS Web",A.a44(null,A.a9y(B.Q,B.B2),!0),null)}}
 A.o2.prototype={
 a5(a){var s,r,q=this.x,p=q.j(0,a)
 if(p!=null)return p
