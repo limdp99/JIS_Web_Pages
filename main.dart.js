@@ -48253,12 +48253,12 @@ if(b?r.C(s,a):r.u(s,a))this.aF()}}
 A.oz.prototype={
 aA(){return new A.Bu(A.a([],t.a6),null,null,B.r)}}
 A.Bu.prototype={
-b5(){var s,r,q=this
+b5(){var s,r,q=this,p="assets/images/1.png"
 q.bt()
 s=q.d
-s.push(A.a8r("2.gif",B.Bu,B.Et,q))
-r=new A.x_("1.png",B.By,B.Es)
-r.iO("1.png")
+s.push(A.a8r("assets/images/2.gif",B.Bu,B.Et,q))
+r=new A.x_(p,B.By,B.Es)
+r.iO(p)
 s.push(r)
 $.aG.k2$.push(new A.U4(q))},
 m(){var s,r,q,p,o,n,m,l
